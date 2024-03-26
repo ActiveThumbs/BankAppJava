@@ -1,0 +1,22 @@
+Bank Functions:
+1. Change Transfer Pin
+
+2. Show/Hide Acct Bal
+
+3. View Bvn
+
+4. Deposit Funds
+
+5.Transfer Funds
+
+6.Fund Card
+
+7. Withdraw From Card
+
+8.Request Loan
+
+9.Buy Airtime
+
+10.Buy Data
+
+11. Support Developer
